@@ -7,18 +7,28 @@ This repo collects some papers in the field of instance segmentation for natural
 
 ## 2022
 - [2022/07] Box-supervised Instance Segmentation with Level Set Evolution, ECCV'22, [Code](https://github.com/liwentomng/boxlevelset), [Paper](https://arxiv.org/pdf/2207.09055.pdf), Box, CNN
-- [2022/06] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation, [Code](https://github.com/IDEACVR/MaskDINO), [Paper](https://arxiv.org/pdf/2206.02777.pdf), Full, Transformer
+- [2022/06] Instance Segmentation With Mask-Supervised Polygonal Boundary Transformers, [Code](), [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.pdf), Full, Transformer
+- [2022/06] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation, CVPR'22, [Code](https://github.com/IDEACVR/MaskDINO), [Paper](https://arxiv.org/pdf/2206.02777.pdf), Full, Transformer
+- [2022/06] iFS-RCNN: An Incremental Few-Shot Instance Segmenter, CVPR'22, [Code](), [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_iFS-RCNN_An_Incremental_Few-Shot_Instance_Segmenter_CVPR_2022_paper.pdf), Few-shot, CNN
 - [2022/05] Vision Transformer Adapter for Dense Predictions, [Code](https://github.com/czczup/vit-adapter), [Paper](https://arxiv.org/pdf/2205.08534.pdf), Full, Transformer
+- [2022/04] Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity, CVPR'22, [Code](), [Paper](http://arxiv.org/abs/2204.06107), Open-world, CNN
 - [2022/03] E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation, CVPR'22, [Code](https://github.com/zhang-tao-whu/e2ec), [Paper](https://arxiv.org/pdf/2203.04074.pdf), Full, Real-time, CNN
-
+- [2022/03] Sparse Instance Activation for Real-Time Instance Segmentation, CVPR'22, [Code](ihttps://github.com/hustvl/SparseInst), [Paper](https://arxiv.org/abs/2203.12827), Full, Real-time, CNN
+- [2022/03] Noisy Boundaries: Lemon or Lemonade for Semi-Supervised Instance Segmentation?, CVPR'22, [Code](), [Paper](http://arxiv.org/abs/2203.13427), Semi, CNN
+- [2022/03] SharpContour: A Contour-Based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation, CVPR'22, [Code](), [Paper](http://arxiv.org/abs/2203.13312), Full, Real-time, CNN
+- [2022/03] ContrastMask: Contrastive Learning To Segment Every Thing, CVPR'21, [Code](), [Paper](http://arxiv.org/abs/2203.09775), Partial, CNN
+- [2022/01] Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance, CVPR'22, [Code](), [Paper](http://arxiv.org/abs/2201.02784), Full, Long-tail, CNN
 
 ## 2021
 - [2021/12] Masked-attention Mask Transformer for Universal Image Segmentation, CVPR'22, [Code](https://github.com/facebookresearch/Mask2Former), [Paper](https://arxiv.org/pdf/2112.01527.pdf), Full, Transformer
+- [2011/11] Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling, CVPR'22, [Code](), [Paper](http://arxiv.org/abs/2111.12698), Open-world, CNN
 - [2021/11] Mask Transfiner for High-Quality Instance Segmentation, CVPR'22, [Code](), [Paper](), Full, CNN+Transformer
+- [2021/09] Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation via Semantic Knowledge Transfer and Self-Refinement, CVPR'22, [Code](), [Paper](http://arxiv.org/abs/2109.09477), Weakly, CNN
 - [2021/06] SOLQ: Segmenting Objects by Learning Queries, NeurIPS'21, [Code](https://github.com/megvii-research/SOLQ), [Paper](https://arxiv.org/pdf/2106.02351.pdf), Full, Transformer
 - [2021/06] K-Net: Towards Unified Image Segmentation, NeurIPS'21, [Code](https://github.com/zwwwayne/k-net), [Paper](https://arxiv.org/pdf/2106.14855.pdf), Full, Transformer
 - [2021/05] Instances as Queries, ICCV'21, [Code](https://github.com/hustvl/QueryInst), [Paper](https://arxiv.org/pdf/2105.01928.pdf), Full, CNN
 - [2021/05] ISTR: End-to-End Instance Segmentation with Transformers, [Code](https://github.com/hujiecpp/ISTR), [Paper](https://arxiv.org/pdf/2105.00637v2.pdf), Full, Transformer
+- [2021/04] Pointly-Supervised Instance Segmentation, CVPR'22, [Code](), [Paper](http://arxiv.org/abs/2104.06404), Point, CNN
 - [2021/03] Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers, CVPR'21, [Code](https://github.com/lkeab/BCNet), [Paper](https://arxiv.org/pdf/2103.12340.pdf), Full, CNN
 
 ## 2020
@@ -26,6 +36,7 @@ This repo collects some papers in the field of instance segmentation for natural
 - [2020/12] BoxInst: High-Performance Instance Segmentation with Box Annotations, CVPR'21, [Code](https://github.com/aim-uofa/AdelaiDet), [Paper](https://arxiv.org/abs/2012.02310), Box, CNN
 - [2020/12] Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation, CVPR'21, [Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/copy_paste), [Paper](https://arxiv.org/pdf/2012.07177.pdf), Full, Data aug, CNN
 - [2020/12] Global Context Networks, TPAMI'20, [Code](https://github.com/xvjiarui/GCNet), [Paper](https://arxiv.org/pdf/2012.13375.pdf), Full, CNN
+- [2020/11] DCT-Mask: Discrete Cosine Transform Mask Representation for Instance Segmentation, CVPR'21, [Code](https://github.com/aliyun/DCT-Mask), [Paper](https://arxiv.org/abs/2011.09876), Full, CNN
 - [2020/07] SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation, ECCV'20, [Code](https://github.com/JialeCao001/SipMask), [Paper](https://arxiv.org/pdf/2007.14772.pdf), Full, CNN
 - [2020/07] Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation, ECCV'20, [Code](https://github.com/fanq15/FewX), [Paper](https://arxiv.org/pdf/2007.12387.pdf), Partially, CNN
 - [2020/06] D2Det: Towards High Quality Object Detection and Instance Segmentation, CVPR'20, [Code](https://github.com/JialeCao001/D2Det), [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf), Full, CNN
