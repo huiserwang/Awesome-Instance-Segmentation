@@ -9,7 +9,7 @@ This repo collects some papers in the field of instance segmentation for natural
 - [2022/07] Box-supervised Instance Segmentation with Level Set Evolution, ECCV'22, [Code](https://github.com/liwentomng/boxlevelset), [Paper](https://arxiv.org/pdf/2207.09055.pdf), Box, CNN
 - [2022/06] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation, [Code](https://github.com/IDEACVR/MaskDINO), [Paper](https://arxiv.org/pdf/2206.02777.pdf), Full, Transformer
 - [2022/05] Vision Transformer Adapter for Dense Predictions, [Code](https://github.com/czczup/vit-adapter), [Paper](https://arxiv.org/pdf/2205.08534.pdf), Full, Transformer
-- [2022/03] E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation, CVPR'22, [Code](https://github.com/zhang-tao-whu/e2ec), [Paper](https://arxiv.org/pdf/2203.04074.pdf), [![Full](./svgs/full.svg)](https://awesome.re) Full, Real-time, CNN
+- [2022/03] E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation, CVPR'22, [Code](https://github.com/zhang-tao-whu/e2ec), [Paper](https://arxiv.org/pdf/2203.04074.pdf), Full, Real-time, CNN
 
 
 ## 2021
