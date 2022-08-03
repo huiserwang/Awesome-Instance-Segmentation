@@ -10,7 +10,7 @@ Please pull a request or raise an issue if I miss some papers or have errors .
 - 2022/07/27: Collect related papers from paperwithcode and CVPR22 official openaccess repo.
 
 ## 2022 (Total: 13)
-- [2022/07] Active Pointly-Supervised Instance Segmentation, **`ECCV'22`**, [Code](https://github.com/chufengt/APIS), Paper, Point, CNN
+- [2022/07] Active Pointly-Supervised Instance Segmentation, **`ECCV'22`**, [Code](https://github.com/chufengt/APIS), [Paper](https://arxiv.org/pdf/2207.11493.pdf), Point, CNN
 - [2022/07] Box-supervised Instance Segmentation with Level Set Evolution, **`ECCV'22`**, [Code](https://github.com/liwentomng/boxlevelset), [Paper](https://arxiv.org/pdf/2207.09055.pdf), Box, CNN
 - [2022/06] Instance Segmentation With Mask-Supervised Polygonal Boundary Transformers, **`CVPR'22`** [Code](https://github.com/mlpc-ucsd/BoundaryFormer), [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.pdf), Full, Transformer
 - [2022/06] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation, **`CVPR'22`**, [Code](https://github.com/IDEACVR/MaskDINO), [Paper](https://arxiv.org/pdf/2206.02777.pdf), Full, Transformer
