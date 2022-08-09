@@ -52,6 +52,7 @@ Please pull a request or raise an issue if I miss some papers or have errors .
 - [2020/01] BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation, **`CVPR'20`**, [Code](https://github.com/aim-uofa/AdelaiDet), [Paper](https://arxiv.org/pdf/2001.00309.pdf), Full, CNN
 
 ## 2019 (Total: 11)
+- [2019/12] PointRend: Image Segmentation as Rendering, **CVPR'20**, [Code](https://github.com/facebookresearch/detectron2/tree/master/projects/PointRend), [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kirillov_PointRend_Image_Segmentation_As_Rendering_CVPR_2020_paper.pdf), Full, CNN
 - [2019/12] SOLO: Segmenting Objects by Locations, **`ECCV'20`**, [Code](https://github.com/WXinlong/SOLO), [Paper](https://arxiv.org/pdf/1912.04488v3.pdf), Full, CNN
 - [2019/12] EmbedMask: Embedding Coupling for One-stage Instance Segmentation, **`IJCAI'21`**, [Code](https://github.com/yinghdb/EmbedMask), [Paper](https://arxiv.org/pdf/1912.01954.pdf), Full, CNN
 - [2019/12] RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation, **`AAAI'20`**, [Code](https://github.com/wangsr126/RDSNet), [Paper](https://arxiv.org/pdf/1912.05070.pdf), Full, CNN
